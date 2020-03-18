@@ -37,4 +37,4 @@ The application has the following features:
 3) Creating/Deleting/Updating Gifts
 4) Simple and Polished UI
 
-Use app here: https://thawing-journey-93545.herokuapp.com/
+Use app here: https://lipin-1.herokuapp.com/
